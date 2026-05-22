@@ -39,4 +39,4 @@
 - Monthly Cloud: $2
 
 ---
-**Want to chat about this?** [LinkedIn](https://www.linkedin.com/in/cole-zander/) | [My Website](24-track.com) (It's empty for now)
+**Want to chat about this?** [LinkedIn](https://www.linkedin.com/in/cole-zander/) | [My Website](24-track.com)
