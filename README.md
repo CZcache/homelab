@@ -23,7 +23,8 @@
    > After months of routing all traffic through Cloudflare Tunnels, I learned subdomain resolution could be handeled by a Reverse Proxy instead of dozens of       individual tunnels
 
 ## What I'm currently learning
-- [ ] Wireguard VPN (stuck on portforwarding at the moment)
+- Wireguard VPN (stuck on portforwarding at the moment)
+- 24-track.com (My website)
 
 ## What I would do differently
 - Using casaOS on bare metal insead of a hypervisor (This is in progress to be resolved)
