@@ -24,7 +24,7 @@
 
 ## What I'm currently learning
 - Wireguard VPN (stuck on portforwarding at the moment)
-- 24-track.com (My website)
+- Basic HTML (Just to get my Website up and running)
 
 ## What I would do differently
 - Using casaOS on bare metal insead of a hypervisor (This is in progress to be resolved)
